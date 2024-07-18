@@ -1,0 +1,20 @@
+/* css styles */
+
+
+.navbar li.nav-item a.nav-link span {
+  color: black !important;
+}
+
+
+.navbar li.nav-item a.nav-link.active span {
+  color: white !important;
+  font-size: 16px !important;
+}
+
+.navbar-brand > img {
+  height: 80px;
+}
+
+.grid {
+  margin-left: -120px
+}
